@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-dhruvtemkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvtemkar)
 [![GitHub](https://img.shields.io/badge/GITHUB-Dhruvtemkar29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvtemkar29)
-[![Email](https://img.shields.io/badge/EMAIL-SAY%20HI-FF2E97?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/EMAIL-SAY%20HI-FF2E97?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temkardhruv29@gmail.com)
 
 </div>
 
