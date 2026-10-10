@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=FF2E97&center=true&vCenter=true&width=800&height=55&lines=I+don't+just+write+code%2C+I+ship+experiences+%E2%9A%A1;Idea+%E2%86%92+Prototype+%E2%86%92+Product+%F0%9F%9A%80;Hackathons+are+my+playground+%F0%9F%8F%86;AI+%2B+Data+%2B+Clean+UI+%3D+Magic+%E2%9C%A8;Currently+compiling+greatness...+%F0%9F%92%AB" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=FF2E97&center=true&vCenter=true&width=800&height=55&lines=I+don't+just+write+code%2C+I+ship+experiences+%E2%9A%A1;Idea+%E2%86%92+Prototype+%E2%86%92+Product+%F0%9F%9A%80;Clean+code.+Bold+ideas.+Real+impact.+%E2%9C%A8;AI+%2B+Data+%2B+Clean+UI+%3D+Magic+%F0%9F%94%AE;Currently+compiling+greatness...+%F0%9F%92%AB" alt="typing"/>
 </a>
 
 <br/>
@@ -34,36 +34,35 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
 
-## ⚡ The Dev Card
+## 🪪 The Dev Card
 
 <div align="center">
-
-| 🧬 **Identity** | 🎯 **Mission** | 🔥 **Superpower** |
-|:---:|:---:|:---:|
-| Dhruv Temkar | Build products people love | Idea → shipped, fast |
-| 📍 Mumbai ⇄ Bangalore | 🧠 AI · Data · Full-Stack | 🏆 Hackathon mindset |
-
+<img src="assets/dev-card.svg" width="92%" alt="Dev Card"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
 
-## 🛠️ Tech Arsenal
+## 🪐 Tech Orbit
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,express,react,mongodb,git,github,vscode,jupyter,figma&theme=dark&perline=13"/>
+<img src="assets/tech-orbit.svg" width="85%" alt="Tech Orbit"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<table>
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td align="center"><b>⚙️ Backend</b></td>
+<td align="center"><b>🧠 Data & AI</b></td>
+<td align="center"><b>🧰 Tools</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter&theme=dark"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/></td>
+</tr>
+</table>
 
 </div>
 
@@ -73,36 +72,13 @@
 
 <div align="center">
 
-<a href="https://github.com/Dhruvtemkar29/BrainVault-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvtemkar29&repo=BrainVault-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF2E97"/>
-</a>
-<a href="https://github.com/Dhruvtemkar29/Career-Navigator-EDA">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvtemkar29&repo=Career-Navigator-EDA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF2E97"/>
-</a>
-<a href="https://github.com/Dhruvtemkar29/desi-vibes-frontend">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvtemkar29&repo=desi-vibes-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF2E97"/>
-</a>
-<a href="https://github.com/Dhruvtemkar29/desi-vibes-backend">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvtemkar29&repo=desi-vibes-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF2E97"/>
-</a>
-<a href="https://github.com/Dhruvtemkar29/Hackathon_Christ">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvtemkar29&repo=Hackathon_Christ&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF2E97"/>
-</a>
+<a href="https://github.com/Dhruvtemkar29/BrainVault-AI"><img width="49%" src="assets/card-brainvault.svg" alt="BrainVault-AI"/></a>
+<a href="https://github.com/Dhruvtemkar29/Career-Navigator-EDA"><img width="49%" src="assets/card-career.svg" alt="Career-Navigator-EDA"/></a>
+<a href="https://github.com/Dhruvtemkar29/desi-vibes-frontend"><img width="49%" src="assets/card-desi-front.svg" alt="Desi Vibes Frontend"/></a>
+<a href="https://github.com/Dhruvtemkar29/desi-vibes-backend"><img width="49%" src="assets/card-desi-back.svg" alt="Desi Vibes Backend"/></a>
+<a href="https://github.com/Dhruvtemkar29/Hackathon_Christ"><img width="49%" src="assets/card-hack.svg" alt="Hackathon_Christ"/></a>
 
 </div>
-
-<details>
-<summary><b>🔍 Click to peek inside my project universe</b></summary>
-<br/>
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🧠 **BrainVault-AI** | An AI-powered second brain for knowledge | `Python` |
-| 🧭 **Career-Navigator-EDA** | Data exploration that guides career decisions | `Jupyter` |
-| 🎨 **Desi Vibes** | Full-stack web app, frontend + backend | `HTML` `JS` |
-| 🏆 **Hackathon_Christ** | Hackathon build, made under pressure | `JavaScript` |
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
 
@@ -160,10 +136,9 @@
 ## 🎯 Mission Log
 
 ```diff
-+ [ACTIVE]    Building AI-powered products & full-stack apps
-+ [LEARNING]  AI/ML, data storytelling, system design
-+ [HUNTING]   The next hackathon trophy 🏆
-+ [OPEN]      Collaborations · internships · wild ideas
++ [ACTIVE]     Building AI-powered products & full-stack apps
++ [LEARNING]   AI/ML, data storytelling, system design
++ [SEEKING]    Collaborations · internships · bold ideas
 - [DEPRECATED] Bugs, procrastination, boring UIs
 ```
 
